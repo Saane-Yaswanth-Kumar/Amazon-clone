@@ -1,11 +1,7 @@
 # Amazon-clone
 
 
-Sure! Here's a detailed README file for an Amazon clone project using HTML and CSS. You can use this template to describe your project on GitHub.
 
----
-
-# Amazon Clone
 
 ## Table of Contents
 
@@ -13,11 +9,9 @@ Sure! Here's a detailed README file for an Amazon clone project using HTML and C
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Introduction
 
@@ -36,10 +30,9 @@ This project is a clone of the Amazon website, created using only HTML and CSS. 
 ## Screenshots
 
 ### Home Page
-![Home Page](link_to_screenshot_homepage)
+![Home Page]((https://saane-yaswanth-kumar.github.io/Amazon-clone/))
 
-### Product Detail Page
-![Product Detail Page](link_to_screenshot_productpage)
+
 
 ## Technologies Used
 
