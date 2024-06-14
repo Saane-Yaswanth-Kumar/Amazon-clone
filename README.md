@@ -28,7 +28,7 @@ This project is a clone of the Amazon website, created using only HTML and CSS. 
 - Simple CSS animations and transitions
 
 ## Screenshots
-
+!((https://drive.google.com/file/d/1UYZnG-_bV8aQbjeUEiJt9nEV2e9BMpYZ/view?usp=sharing))
 ### Home Page
 ![Home Page]((https://saane-yaswanth-kumar.github.io/Amazon-clone/))
 
